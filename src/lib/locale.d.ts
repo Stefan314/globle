@@ -1,7 +1,7 @@
-export type Locale = "en-CA" | "es-MX";
+export type Locale = "en-CA" | "es-MX" | "nl-NL";
 
 export type Messages = {
-  name: sting;
+  name: string;
   helpTitle: string;
   help1: string;
   help2: string;
